@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🌱 I’m currently learning what GitHub actually is. And it's going fun
 <!--
 **Raozas/Raozas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
