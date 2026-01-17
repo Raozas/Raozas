@@ -6,4 +6,4 @@
 **Looking for:** Internship (3–6 months) in Japan
 
 📫 Contact: asadbekrabbimov0@gmail.com 
-🔗 Portfolio / Demo: (link)
+🔗 Portfolio / Demo: https://portfolio-lbdfb7drh-asadbeks-projects-f6985e1a.vercel.app/
